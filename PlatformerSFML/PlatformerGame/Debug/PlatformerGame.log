@@ -1,0 +1,161 @@
+﻿  Precomp.cpp
+  Collision.cpp
+  EscapeMenu.cpp
+  Game.cpp
+  Main.cpp
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Game.cpp(27,33): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Game.cpp(32,38): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Game.cpp(37,35): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Game.cpp(43,40): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Game.cpp(48,31): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+  Player.cpp
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(83,27): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(83,27): warning C4244:         with
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(83,27): warning C4244:         [
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(83,27): warning C4244:             T=float
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(83,27): warning C4244:         ]
+  (compiling source file '/Player.cpp')
+  
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(169,30): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(169,30): warning C4244:         with
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(169,30): warning C4244:         [
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(169,30): warning C4244:             T=int
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(169,30): warning C4244:         ]
+  (compiling source file '/Player.cpp')
+  
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(170,32): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(170,32): warning C4244:         with
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(170,32): warning C4244:         [
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(170,32): warning C4244:             T=int
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(170,32): warning C4244:         ]
+  (compiling source file '/Player.cpp')
+  
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(181,30): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(181,30): warning C4244:         with
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(181,30): warning C4244:         [
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(181,30): warning C4244:             T=int
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(181,30): warning C4244:         ]
+  (compiling source file '/Player.cpp')
+  
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(182,31): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(182,31): warning C4244:         with
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(182,31): warning C4244:         [
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(182,31): warning C4244:             T=int
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(182,31): warning C4244:         ]
+  (compiling source file '/Player.cpp')
+  
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(189,30): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(189,30): warning C4244:         with
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(189,30): warning C4244:         [
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(189,30): warning C4244:             T=int
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(189,30): warning C4244:         ]
+  (compiling source file '/Player.cpp')
+  
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(190,32): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(190,32): warning C4244:         with
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(190,32): warning C4244:         [
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(190,32): warning C4244:             T=int
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(190,32): warning C4244:         ]
+  (compiling source file '/Player.cpp')
+  
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(202,30): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(202,30): warning C4244:         with
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(202,30): warning C4244:         [
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(202,30): warning C4244:             T=int
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(202,30): warning C4244:         ]
+  (compiling source file '/Player.cpp')
+  
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(203,32): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(203,32): warning C4244:         with
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(203,32): warning C4244:         [
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(203,32): warning C4244:             T=int
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(203,32): warning C4244:         ]
+  (compiling source file '/Player.cpp')
+  
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(216,29): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(216,29): warning C4244:         with
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(216,29): warning C4244:         [
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(216,29): warning C4244:             T=int
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(216,29): warning C4244:         ]
+  (compiling source file '/Player.cpp')
+  
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(217,31): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(217,31): warning C4244:         with
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(217,31): warning C4244:         [
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(217,31): warning C4244:             T=int
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Player.cpp(217,31): warning C4244:         ]
+  (compiling source file '/Player.cpp')
+  
+  Slime.cpp
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Slime.cpp(154,29): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Slime.cpp(154,29): warning C4244:         with
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Slime.cpp(154,29): warning C4244:         [
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Slime.cpp(154,29): warning C4244:             T=int
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Slime.cpp(154,29): warning C4244:         ]
+  (compiling source file '/Slime.cpp')
+  
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Slime.cpp(155,31): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Slime.cpp(155,31): warning C4244:         with
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Slime.cpp(155,31): warning C4244:         [
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Slime.cpp(155,31): warning C4244:             T=int
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Slime.cpp(155,31): warning C4244:         ]
+  (compiling source file '/Slime.cpp')
+  
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Slime.cpp(170,29): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Slime.cpp(170,29): warning C4244:         with
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Slime.cpp(170,29): warning C4244:         [
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Slime.cpp(170,29): warning C4244:             T=int
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Slime.cpp(170,29): warning C4244:         ]
+  (compiling source file '/Slime.cpp')
+  
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Slime.cpp(171,31): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Slime.cpp(171,31): warning C4244:         with
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Slime.cpp(171,31): warning C4244:         [
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Slime.cpp(171,31): warning C4244:             T=int
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Slime.cpp(171,31): warning C4244:         ]
+  (compiling source file '/Slime.cpp')
+  
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Slime.cpp(184,29): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Slime.cpp(184,29): warning C4244:         with
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Slime.cpp(184,29): warning C4244:         [
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Slime.cpp(184,29): warning C4244:             T=int
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Slime.cpp(184,29): warning C4244:         ]
+  (compiling source file '/Slime.cpp')
+  
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Slime.cpp(185,31): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Slime.cpp(185,31): warning C4244:         with
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Slime.cpp(185,31): warning C4244:         [
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Slime.cpp(185,31): warning C4244:             T=int
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Slime.cpp(185,31): warning C4244:         ]
+  (compiling source file '/Slime.cpp')
+  
+  Suriken.cpp
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Suriken.cpp(75,28): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Suriken.cpp(75,28): warning C4244:         with
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Suriken.cpp(75,28): warning C4244:         [
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Suriken.cpp(75,28): warning C4244:             T=int
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Suriken.cpp(75,28): warning C4244:         ]
+  (compiling source file '/Suriken.cpp')
+  
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Suriken.cpp(76,30): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Suriken.cpp(76,30): warning C4244:         with
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Suriken.cpp(76,30): warning C4244:         [
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Suriken.cpp(76,30): warning C4244:             T=int
+C:\Users\ottad\Desktop\PlatformerSFML\PlatformerGame\Suriken.cpp(76,30): warning C4244:         ]
+  (compiling source file '/Suriken.cpp')
+  
+  Object.cpp
+  Generating Code...
+  LINK : C:\Users\ottad\Desktop\PlatformerSFML\Debug\PlatformerGame.exe not found or not built by the last incremental link; performing full link
+MSVCRTD.lib(initializers.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+  PlatformerGame.vcxproj -> C:\Users\ottad\Desktop\PlatformerSFML\Debug\PlatformerGame.exe
