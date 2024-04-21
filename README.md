@@ -7,8 +7,8 @@ movement mechanics, entity interactions, and a graphical user interface.
 <br />
 <br />
 <br />
-The game starts with a title screen that prompts user to press "Space" to start.
-The controls for this game are "A" and "D" for movement and "Space" for jump.
+The game starts with a title screen that prompts user to press "Space" to start.<br />
+The controls for this game are "A" and "D" for horizontal movement and "Space" for jump.
 <br />
 <br />
 <img src="https://github.com/ArseniMokhau/Platformer-SFML/assets/99400189/da6353b1-fe45-40ae-9517-776c3dbd09d1.gif" data-canonical-src="https://github.com/ArseniMokhau/Platformer-SFML/assets/99400189/da6353b1-fe45-40ae-9517-776c3dbd09d1.gif" width="700" height="400" />
